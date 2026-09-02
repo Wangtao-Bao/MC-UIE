@@ -1,0 +1,8 @@
+torch==2.13.0
+numpy==2.3.5
+Pillow==12.2.0
+opencv-python
+scipy
+scikit-image
+lpips==0.1.4
+clean-fid==0.1.35
