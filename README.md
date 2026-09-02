@@ -1,4 +1,4 @@
-# MC-UIE: Multi-Level Constraint Network for Underwater Image Enhancement
+# Multi-Level Constraint Network for Underwater Image Enhancement
 
 Our paper has been submitted for peer review, and we will release the full code once it is officially published.
 
@@ -66,5 +66,3 @@ Full-reference results of MC-UIE on paired underwater image enhancement datasets
 | UIEB90  | 23.37  | 0.911  |  0.100  | 25.16 |
 | UFO120  | 28.02  | 0.868  |  0.148  | 42.08 |
 
-}
-```
