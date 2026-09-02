@@ -59,7 +59,7 @@ Add visual comparisons here after generating representative results.
 
 Full-reference results of MC-UIE on paired underwater image enhancement datasets:
 
-| Dataset | PSNR ↑ | SSIM ↑ | LPIPS ↓ | FID ↓ |
+| Dataset | PSNR   | SSIM   | LPIPS   | FID   |
 | ------- | :----: | :----: | :-----: | :---: |
 | EUVP515 | 28.53  | 0.891  |  0.143  | 24.26 |
 | LSUI400 | 28.09  | 0.917  |  0.112  | 25.23 |
