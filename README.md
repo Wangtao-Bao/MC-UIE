@@ -1,4 +1,4 @@
-# Multi-Level Constraint Network for Underwater Image Enhancement
+# Multi-Level Constraint for Underwater Image Enhancement
 
 Our paper has been submitted for peer review, and we will release the full code once it is officially published.
 
