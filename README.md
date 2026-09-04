@@ -1,4 +1,5 @@
-# Multi-Level Constraint for Underwater Image Enhancement
+# Multi-level Constrained Learning for Underwater Image Enhancement
+
 
 Our paper has been submitted for peer review, and we will release the full code once it is officially published.
 
@@ -21,7 +22,7 @@ pip install -r requirements.txt
 The project expects paired training data and paired test data to be organized as follows:
 
 ```text
-MC-UIE/
+MCL-UIE/
 ├── Traindata/
 │   └── LSUI400/
 │       ├── train/
@@ -54,7 +55,7 @@ MC-UIE/
 
 ### Quantitative Results
 
-Full-reference results of MC-UIE on paired underwater image enhancement datasets:
+Full-reference results of MCL-UIE on paired underwater image enhancement datasets:
 
 | Dataset | PSNR   | SSIM   | LPIPS   | FID   |
 | ------- | :----: | :----: | :-----: | :---: |
