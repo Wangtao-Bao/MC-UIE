@@ -49,11 +49,8 @@ MC-UIE/
 
 ### Visualization Results
 
-Add visual comparisons here after generating representative results.
+![outline](Figs/image1.png)
 
-```markdown
-![Visualization](Figs/image1.png)
-```
 
 ### Quantitative Results
 
