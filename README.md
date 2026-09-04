@@ -52,7 +52,7 @@ MC-UIE/
 Add visual comparisons here after generating representative results.
 
 ```markdown
-![Visualization](paper_figures/Visualization.png)
+![Visualization](Figs/image1.png)
 ```
 
 ### Quantitative Results
